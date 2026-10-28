@@ -1,4 +1,4 @@
-# Hey, I'm Ricardo Andretta Hurtado
+# Hey, I'm Ricardo A. H.
 
 **Fullstack Developer in the making** | DAW Student | AI Enthusiast
 
