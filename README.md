@@ -61,8 +61,10 @@ const ricardo = {
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ricandhur&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricandhur&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ricandhur&theme=tokyonight" alt="Profile details"/>
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ricandhur&theme=tokyonight" alt="Stats"/>
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ricandhur&theme=tokyonight&hide_border=true" alt="Streak"/>
